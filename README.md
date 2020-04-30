@@ -1,1 +1,3 @@
-# 2019-11-11_12
+I learn HTML & CSS start
+
+border and box model 
